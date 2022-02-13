@@ -5,6 +5,20 @@
   "phone": "(951)743-7395",
   "email": "thomasstokes2424@yahoo.com",
   "introduction": "Currently a Computer Systems: Game Development student at CSUSB.",
+  "education":[
+    {
+      "title":"WEB DEVELOPER",
+      "employer":"CSUSB",
+      "period":"January 2022 - Present",
+      "description":"Enrolled in CSE4500: Platform Computing at CSUSB."
+    },
+    {
+      "title":"GAME DEVELOPER",
+      "employer":"self",
+      "period":"August 2021 - present",
+      "description":"Currently active in the development of creating two-demensional video games."
+    }
+  ]
   "experience":[
     {
       "title":"WEB DEVELOPER",
