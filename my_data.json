@@ -39,19 +39,19 @@
       "title":"GAME DEVELOPER",
       "sub":"2D Game Design",
       "level":"mid level",
-      "description":"I have been learning about making 2D games since August 2021. I have currently made one large-scale project game named Frozen Frenzy"
+      "desc":"I have been learning about making 2D games since August 2021. I have currently made one large-scale project game named Frozen Frenzy"
     },
     {
       "title":"CODING",
       "sub":"C++, HTML, Javascript",
       "level":"mid level",
-      "description":"Proficient with the coding languages of C++, HTML, and Javascript."
+      "desc":"Proficient with the coding languages of C++, HTML, and Javascript."
     },
     {
       "title":"WORK ETHIC",
       "sub":"-",
       "level":"high level",
-      "description":"High level work ethic and desire to learn and expand my skills."
+      "desc":"High level work ethic and desire to learn and expand my skills."
     }
   ],
   "interests":[
@@ -59,19 +59,19 @@
       "title":"MOTORSPORTS",
       "sub":"-",
       "level":"high interest",
-      "description":"I have been very interested in motorsports, specifically NASCAR for nearly my entire life."
+      "desc":"I have been very interested in motorsports, specifically NASCAR for nearly my entire life."
     },
     {
       "title":"VIDEOGAMES",
       "sub":"-",
       "level":"high interest",
-      "description":"I have always enjoyed playing videogames ever since I was introduced to them as a child."
+      "desc":"I have always enjoyed playing videogames ever since I was introduced to them as a child."
     },
     {
       "title":"GAME DESIGN",
       "sub":"-",
       "level":"high interest",
-      "description":"I grew to love the process of creating videogames, which inspired me to tranfer into Computer Systems: Game Design as my major."
+      "desc":"I grew to love the process of creating videogames, which inspired me to tranfer into Computer Systems: Game Design as my major."
     }
   ]
 }
