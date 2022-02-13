@@ -52,7 +52,7 @@
                   <span class="text-primary"><?php echo $education['period']; ?></span>
                 </div>
               </div>
-          <p>...</p>
+          <?php  } ?>
         </div>
       </div>
       <hr>
