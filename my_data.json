@@ -49,7 +49,7 @@
     },
     {
       "title":"WORK ETHIC",
-      "sub":"-",
+      "sub":"",
       "level":"high level",
       "desc":"High level work ethic and desire to learn and expand my skills."
     }
@@ -57,19 +57,19 @@
   "interests":[
     {
       "title":"MOTORSPORTS",
-      "sub":"-",
+      "sub":"",
       "level":"high interest",
       "desc":"I have been very interested in motorsports, specifically NASCAR for nearly my entire life."
     },
     {
       "title":"VIDEOGAMES",
-      "sub":"-",
+      "sub":"",
       "level":"high interest",
       "desc":"I have always enjoyed playing videogames ever since I was introduced to them as a child."
     },
     {
       "title":"GAME DESIGN",
-      "sub":"-",
+      "sub":"",
       "level":"high interest",
       "desc":"I grew to love the process of creating videogames, which inspired me to tranfer into Computer Systems: Game Design as my major."
     }
