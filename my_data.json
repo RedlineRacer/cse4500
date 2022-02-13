@@ -5,26 +5,6 @@
   "phone": "(951)743-7395",
   "email": "thomasstokes2424@yahoo.com",
   "introduction": "Currently a Computer Systems: Game Development student at CSUSB.",
-  "education":[
-    {
-      "title":"WEB DEVELOPER",
-      "school":"CSUSB",
-      "period":"January 2022 - Present",
-      "description":"Enrolled in CSE4500: Platform Computing at CSUSB."
-    },
-    {
-      "title":"GAME DEVELOPER",
-      "school":"CSUSB",
-      "period":"August 2020 - present",
-      "description":"Started taking Computer Systems: Game Development courses at CSUSB."
-    },
-    {
-      "title":"MECHANICAL ENGINEERING",
-      "school":"Cal Poly Pomona",
-      "period":"August 2017 - May 2020",
-      "description":"Enrolled in the Mechanical Engineering major at CPP before transferring majors and schools in Summer 2020."
-    }
-  ]
   "experience":[
     {
       "title":"WEB DEVELOPER",
