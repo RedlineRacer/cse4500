@@ -8,16 +8,16 @@
   "education": "educaion here",
   "education":[
     {
-      "title":"WEB DEVELOPER",
-      "employer":"CSUSB",
-      "period":"January 2022 - Present",
-      "description":"Enrolled in CSE4500: Platform Computing at CSUSB."
+      "title":"GAME DESIGN",
+      "school":"CSUSB",
+      "years":"August 2020 - Present",
+      "desc":"Transferred to CSUSB to pursue Computer Systems: Game Design."
     },
     {
-      "title":"GAME DEVELOPER",
-      "employer":"self",
-      "period":"August 2021 - present",
-      "description":"Currently active in the development of creating two-demensional video games."
+      "title":"MECHANICAL ENGINEERING",
+      "school":"Cal Poly Pomona",
+      "years":"August 2017 - May 2020",
+      "desc":"Enrolled at CPP for Mechanical Engineering before transferring to CSUSB for Game Design."
     }
   ],
   "experience":[
