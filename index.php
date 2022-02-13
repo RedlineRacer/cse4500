@@ -20,8 +20,8 @@
         <nav class="nav flex-column">
           <img src="avatar.png" style="width:160px" alt="">
           <a class="nav-link" href="#about">About</a>
-          <a class="nav-link" href="#experience">Experience</a>
           <a class="nav-link" href="#education">Education</a>
+          <a class="nav-link" href="#experience">Experience</a>
         </nav>
       </nav>
     </div>
@@ -41,18 +41,7 @@
       <div id="education" class="content-item">
         <div class="vertical-center">
           <h2>Education</h2>
-          <?php foreach($json_data['education'] AS $education) { ?>
-              <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
-                <div class="flex-grow-1">
-                  <h3 class="mb-0"><?php echo $education['title1']; ?></h3>
-                  <div class="subheading mb-3"><?php echo $education['school']; ?></div>
-                  <p><?php echo $education['description1']; ?></p>
-                </div>
-                <div class="flex-shrink-0">
-                  <span class="text-primary"><?php echo $education['period1']; ?></span>
-                </div>
-              </div>
-          <?php  } ?>
+          <p>...</p>
         </div>
       </div>
       <hr>
@@ -74,8 +63,7 @@
         </div>
       </div>
       <hr>
-    
-      
+    </div>
 
   <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p" crossorigin="anonymous"></script>
   </body>
