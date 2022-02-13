@@ -43,15 +43,15 @@
     },
     {
       "title":"CODING",
-      "sub":"",
-      "level":"high level",
-      "description":"High level work ethic and desire to learn and expand my skills."
-    },
-    {
-      "title":"WORK ETHIC",
       "sub":"C++, HTML, Javascript",
       "level":"mid level",
       "description":"Proficient with the coding languages of C++, HTML, and Javascript."
+    },
+    {
+      "title":"WORK THIC",
+      "sub":"",
+      "level":"high level",
+      "description":"High level work ethic and desire to learn and expand my skills."
     }
   ],
   "interests":[
